@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.8.17)  28 FEB 2022 23:34
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.8.17)  28 FEB 2022 23:45
  restricted system commands enabled.
  file:line:error style messages enabled.
 **main.tex
@@ -455,6 +455,11 @@ Package luatex.def Info: images/misclassfied.png  used on input line 163.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+
+Underfull \hbox (badness 2285) in paragraph at lines 169--170
+[]\TU/ptm/b/n/10 The code can be found on GitHub at [][]kyle-
+ []
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
 [3<./images/misclassfied.png>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
@@ -471,17 +476,17 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 171.
 Here is how much of LuaTeX's memory you used:
  11071 strings out of 481365
  100000,460012 words of node,token memory allocated
- 493 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 53 glue_spec, 7 attribute_list, 1 write nodes
-   avail lists: 2:632,3:225,4:66,5:248,6:50,7:6131,8:30,9:310,10:16,11:419
+ 503 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 53 glue_spec, 8 attribute_list, 1 write, 1 pdf_action nodes
+   avail lists: 2:630,3:225,4:66,5:248,6:49,7:6131,8:30,9:310,10:16,11:419
  27747 multiletter control sequences out of 65536+600000
  68 fonts using 6197171 bytes
  47i,10n,45p,943b,343s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf>
-Output written on main.pdf (3 pages, 410133 bytes).
+Output written on main.pdf (3 pages, 410315 bytes).
 
-PDF statistics: 83 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+PDF statistics: 85 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  20 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -19,8 +19,8 @@ optional arguments:
                         Set the initial learning rate to be used with the reduced step scheduler.
 ```
 
-The file outputs a TensorBoard file in the [runs/](runs) directory with the name which you gave as input as seen above. Launch the TensorBoard session with
-```tensorboard --logdir=runs``` from the main directory of this repo. A log file is output containing the training settings and test set performance metrics such
-as accuracy and F1 score in the [logs/](logs) directory. The model weights are saved on the last epoch into the [trained_models/](trained_models) directory named according to the 
-name you provide when launching the training. The train file automatically detects if you have a CUDA enabled device and selects it for training. 
-If not, it uses the CPU.
+Providing a name is required. All defaults are set to false. ```--epochs``` default is 100 and ```--lr``` default is 5e-5.
+
+The file outputs a TensorBoard file in the [runs/](runs) directory with the name which you gave as input as seen above. Launch the TensorBoard session with ```tensorboard --logdir=runs``` from the main directory of this repo. A log file is output containing the training settings and test set performance metrics such as accuracy and F1 score in the [logs/](logs) directory. The model weights are saved on the last epoch into the [trained_models/](trained_models) directory named according to the name you provide when launching the training. The train file automatically detects if you have a CUDA enabled device and selects it for training with a fallsbac to the CPU.
+
+[Here is the report for the course this code was developed for.](kyle-beggs-final-report.pdf)

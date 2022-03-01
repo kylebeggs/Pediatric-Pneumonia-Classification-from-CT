@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.8.17)  28 FEB 2022 23:45
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.8.17)  1 MAR 2022 00:25
  restricted system commands enabled.
  file:line:error style messages enabled.
 **main.tex
@@ -483,7 +483,7 @@ Here is how much of LuaTeX's memory you used:
  68 fonts using 6197171 bytes
  47i,10n,45p,943b,343s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf>
-Output written on main.pdf (3 pages, 410315 bytes).
+Output written on main.pdf (3 pages, 410466 bytes).
 
 PDF statistics: 85 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream

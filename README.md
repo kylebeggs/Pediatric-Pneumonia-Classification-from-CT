@@ -1,4 +1,4 @@
-# Pediatric-Pneumonia-Classification-from-CT
+# Pediatric-Pneumonia-Classification-from-XRay
 
 The [train.py](train.py) file in the main directory of the repo is the only file of importance. There is a helper file with some plotting functions,
 etc named [helper.py](helper.py) but everything is contained in the train file.

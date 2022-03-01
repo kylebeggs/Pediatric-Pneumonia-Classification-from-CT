@@ -1,0 +1,15 @@
+INFO Running pretrained
+INFO   pretrained: True
+INFO   balance: False
+INFO   augment: True
+INFO   learning rate: 5e-05
+INFO   batch size: 8
+INFO               precision    recall  f1-score   support
+
+      NORMAL     1.0000    0.5128    0.6780       234
+   PNEUMONIA     0.7738    1.0000    0.8725       390
+
+    accuracy                         0.8173       624
+   macro avg     0.8869    0.7564    0.7752       624
+weighted avg     0.8586    0.8173    0.7995       624
+

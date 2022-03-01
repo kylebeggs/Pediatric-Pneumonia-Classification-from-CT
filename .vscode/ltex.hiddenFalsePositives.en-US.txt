@@ -1,0 +1,13 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QCenterline extraction can be performed via the grassfire or shrinking ball algorithms with no user input, but these often fail to achieve the robustness needed for the results to be directly used in simulation.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QLenga et al. built a system to extract centerlines on rib bones using the feature map output from the network to perform an external extraction algorithm \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe first attempt at extracting centerlines (at least claimed by the authors) was by Guo et al. who used a Fully Convolutional Network for extracting coronary artery centerlines \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe output of the CNN is the next point on the centerline, which then becomes the new local area input into the CNN \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q - similar to the wave front technique pioneered by Antiga et al.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QAn approach similar to that of Guo et al. \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q is used with ground truth labels representing the centerlines as 1-pixel wide `lines' and generated using a `baseline' method that is a current state of the art that is not a neural network.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QGuo et al. remedies this problem by generating a confidence map around the endpoint using a Gaussian distribution.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QNetwork architecture used by Guo et al. \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q and the base for this work.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QObjective two is a continuation of a question posed at the conclusion of Guo et al. because they generated the truth centerlines using current state-of-the-art methods (termed `baseline') and then compared their network to those same baselines.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QTraining Loss Loss curves for training set.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QValidation Accuracy Accuracy curves for validation set.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QValidation Loss validation loss curves for training set.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QTraining Loss Training loss curves for training set.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QValidation Loss Validation loss curves for training set.\\E$"}

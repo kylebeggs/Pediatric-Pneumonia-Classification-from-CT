@@ -1,0 +1,20 @@
+INFO Running pretrained_balanced_no_aug
+INFO   pretrained: True
+INFO   balance: True
+INFO   augment: False
+INFO   learning rate: 5e-05
+INFO   batch size: 8
+DEBUG Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG Creating converter from 7 to 5
+DEBUG Creating converter from 5 to 7
+DEBUG Creating converter from 7 to 5
+DEBUG Creating converter from 5 to 7
+INFO               precision    recall  f1-score   support
+
+      NORMAL     0.9928    0.5897    0.7399       234
+   PNEUMONIA     0.8021    0.9974    0.8891       390
+
+    accuracy                         0.8446       624
+   macro avg     0.8974    0.7936    0.8145       624
+weighted avg     0.8736    0.8446    0.8332       624
+

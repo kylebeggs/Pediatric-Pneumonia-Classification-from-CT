@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1646145757 "main.tex" "main.pdf" "main" 1646145758
+["lualatex"] 1647288486 "main.tex" "main.pdf" "main" 1647288487
   "/home/kylebeggs/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman10-regular.luc" 1604413795 123142 d3b29489a8ffc91cd4e03357f67b2fc5 ""
   "/home/kylebeggs/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman12-regular.luc" 1604413796 123481 43b95c7579b49c47160ac0c030902624 ""
   "/home/kylebeggs/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman9-regular.luc" 1604413796 123771 389c904e3ac3a14fd699c9e66e0cad24 ""
@@ -112,9 +112,9 @@
   "images/loss-training.png" 1646098108 30190 2309977cee3fa0df32ac0db9053ff720 ""
   "images/loss-val.png" 1646098128 69014 a5fc0822782fcb69cf23298f78833563 ""
   "images/misclassfied.png" 1646109159 96522 48519468328ae9ffde6d15e9af996a4c ""
-  "main.aux" 1646145758 5374 7bea9dc20a5189fad1aad54df6bb32e3 "lualatex"
-  "main.tex" 1646145754 9522 033373e3796794567174fb3b18734d5e ""
+  "main.aux" 1647288487 5241 192950f4f63918de74c56d24487a8b6b "lualatex"
+  "main.tex" 1647288484 9504 78c074768d07790410176704443a7f36 ""
   (generated)
   "main.aux"
-  "main.log"
   "main.pdf"
+  "main.log"
